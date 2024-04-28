@@ -1,5 +1,4 @@
 [![Swift Version][swift-image]][swift-url]
-[![Build Status][travis-image]][travis-url]
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/EZSwiftExtensions.svg)](https://img.shields.io/cocoapods/v/LFAlertController.svg)  
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
@@ -34,7 +33,7 @@
 
 1. Open Xcode
 2. Clone an existing project
-3. ```git clone link``` search or enter
+3. ```https://github.com/umutbrkee/VideoGamesList.git``` search or enter
 4. Congratulations! 
 
 #### Manually
