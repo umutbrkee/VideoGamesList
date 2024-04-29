@@ -16,10 +16,13 @@
 - Tabbar
 - UICollectionView
 - Custom CollectionView Cell
+- Search Bar
+- Empty View 
 - UITableView
 - Custom TableView Cell
 - Core Data with Manager
 - Kingfisher
+- Core Data
 
 
 
