@@ -8,7 +8,7 @@
      This application allows you to get information about games. You can find the game you want as you wish and get information about the game. You can add your favorite games to favourites. Download and experience now for more. Have fun 😊🎉
     </p>
     
-![Readme](https://user-images.githubusercontent.com/94677369/214499514-eb10429c-bc22-4a63-838b-9af659ea8611.png)
+![Simulator Screenshot - iPhone 15 Pro - 2024-04-29 at 02 56 23](https://github.com/umutbrkee/VideoGamesList/assets/45608427/3c5cd1e8-089f-4137-8558-9fad849f934c)
 
 ## Features 🔥
 
@@ -48,7 +48,9 @@ You can contribute to the Project
 
 ## Summary Video
 
-https://user-images.githubusercontent.com/94677369/214509873-39317182-3213-4186-8bd6-c60db17e4ee6.mp4
+
+https://github.com/umutbrkee/VideoGamesList/assets/45608427/11a00e76-71dd-4aab-b7cf-4625c9fab877
+
 
 [swift-image]:https://img.shields.io/badge/swift-17.0-orange.svg
 [swift-url]: https://swift.org/
